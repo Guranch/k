@@ -24,7 +24,10 @@ header {
   padding-top: 30px;
   padding-bottom: 30px;
 }
-
+.cont{
+  max-width: 1920px;
+  margin: 0 auto;
+}
 /* container */
 
 .container {
